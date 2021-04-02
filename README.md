@@ -4,5 +4,5 @@ App básica de un contador realizada en Flutter para dispositivos móviles Andro
 
 ## Captura de pantalla
 
-![](\screenshots\screen_1.png)
+![Screenshot](screen_1.png)
 
